@@ -1,0 +1,33 @@
+cara menggunakan aplikasi to do list
+
+1. dowload xampp di Google crom pilih yang tengah/ v.3.3.0
+2. buka xampp, start (apache) dan (mysql), lalu buka folder kita yang ada di htdoc ketik (localhost/ukkcelsi/) di google
+3. masukkan task -> priority -> tanggal, kalau sudah klik tambah. 
+4. jika kalian ingin mengganti,pilih edit di kolom aksi. masukan data kalian yang baru lalu klik SIMPAN PERUBAHAN. 
+5. klik SELESAI jika tugas Anda sudah selesai. 
+6. hapus jika sudah tidak dipakai.
+
+deskripsi to do list 
+to do list adalah aplikasi/web yang digunakan untuk mengingatkan tugas atau mencatat agenda kegiatan sehari hari.
+to do list juga membantu kita untuk mengingatkan tugas apa saja yang sudah selesai/ belum selesai.kita jadi merasa gampang jka
+menggunakan to do list ini, karna semua agenda kita sudah kita catat di aplikasi atau web tersebut
+
+
+fitur utama yang ada di to do list
+1.task =untuk nama tugas yang akan kita tulis
+2.priority = adalah seberapa pentingnya tugas itu dikita
+3.tanggal = tanggal untuk jadwal pengumpulan tugas atau harus selesai dihari apa
+4.status = menandakan selesai atau tidak selesai nya tugas kita 
+
+contoh data
+nama task=ngaji 
+prioritas=Penting Sekali
+Tanggal=2025-02-19
+Status=Selesai
+
+
+
+
+
+
+
